@@ -1,7 +1,7 @@
-## Java Highlight grid Program.
+Java Highlight grid Program.
 The impact of it is that it forms a square grid of size (N) by (N) with random even numbers among 2 and 20 and formats as well as displays such a grid in a form of a grid and the user has to decide what number to underline in such a grid. The program has succeeded therein to highlight all the incidences of the same figure as well as the occurrence rate of the instances.
 
-## Features
+Features
 Generate a grid of NxN numerical grid.
 
 Mark even numbers (2 -20) on the grid randomly.
